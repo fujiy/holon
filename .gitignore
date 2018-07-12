@@ -1,0 +1,4 @@
+.stack-work/
+holon.cabal
+*~
+.atom-build.yaml
